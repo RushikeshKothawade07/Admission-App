@@ -1,3 +1,3 @@
 # Admission-App
 
-SOON To BE HOSTED
+SOON TO BE HOSTED
